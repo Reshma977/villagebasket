@@ -1,0 +1,63 @@
+.rice-card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.rice-image {
+  width: 100%;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+.rice-name {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.pack-select {
+  margin: 0.5rem 0;
+  padding: 0.3rem;
+}
+
+.price {
+  font-size: 1rem;
+  color: #1e1e1e;
+  margin: 0.3rem 0;
+}
+
+.add-btn {
+  padding: 0.4rem 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.quantity-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.qty-btn {
+  background: #ffc107;
+  border: none;
+  padding: 5px 12px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.qty-count {
+  min-width: 20px;
+  display: inline-block;
+  text-align: center;
+}

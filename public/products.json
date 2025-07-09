@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Rice",
+    "image": "images/rice.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 100 },
+      { "size": "2kg", "price": 200 },
+      { "size": "5kg", "price": 500 },
+      { "size": "25kg", "price": 1200 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ragi/Finger Millet",
+    "image": "images/ragi.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 50 },
+      { "size": "2kg", "price": 100 },
+      { "size": "5kg", "price": 240 },
+      { "size": "10kg", "price": 450 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ragi Flour",
+    "image": "images/ragi-flour.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 55 },
+      { "size": "2kg", "price": 110 },
+      { "size": "5kg", "price": 260 },
+      { "size": "10kg", "price": 500 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wheat Grains",
+    "image": "images/wheat-grains.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 60 },
+      { "size": "2kg", "price": 120 },
+      { "size": "5kg", "price": 280 },
+      { "size": "10kg", "price": 500 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Wheat Flour",
+    "image": "images/wheat-flour.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 65 },
+      { "size": "2kg", "price": 130 },
+      { "size": "5kg", "price": 300 },
+      { "size": "10kg", "price": 520 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Corn",
+    "image": "images/corn.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 65 },
+      { "size": "2kg", "price": 130 },
+      { "size": "5kg", "price": 300 },
+      { "size": "10kg", "price": 520 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Horse Gram",
+    "image": "images/horse-gram.jpg",
+    "packSizes": [
+      { "size": "1kg", "price": 40 },
+      { "size": "2kg", "price": 80 },
+      { "size": "5kg", "price": 180 },
+      { "size": "10kg", "price": 350 },
+      { "size": "20kg", "price": 600 }
+    ]
+  }
+]
